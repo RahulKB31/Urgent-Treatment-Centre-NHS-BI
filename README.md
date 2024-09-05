@@ -62,7 +62,7 @@ To view the full UTC NHS BI report:
 1. Ensure you have a PDF reader installed.
 2. Download the report:
    ```bash
-   wget https://your-url/UTC_NHS_BI_Report.pdf
+   wget https://github.com/RahulKB31/Urgent-Treatment-Centre-NHS-BI/blob/main/UTC%20NHS_report_Rahul.pdf
    ```
 
 3. Open the report using a PDF reader:
